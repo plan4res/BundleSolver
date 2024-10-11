@@ -1,0 +1,5 @@
+
+[submodule "NdoFiOracle"]
+	path = NdoFiOracle
+	url = https://github.com/plan4res/NdoFiOracle
+	branch = master
